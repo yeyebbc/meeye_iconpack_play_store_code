@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources tools:ignore="ExtraTranslation"  xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Icon name replacer
+    * Format: <item>Word that you want to replace + ,(comma) + Word that you want to replace with</item>
+    *
+    * NOTE: Adding so many conditions may reduce dashboard performance, loading time will be increased
+    * NOTE: By default underscore "_" will be replaced with space " ", you don't need to use icon name replacer -->
+
+    <!-- Enable or disable icon name replacer
+    * Enable -> true
+    * Disable -> false -->
+    <bool name="enable_icon_name_replacer">true</bool>
+
+    <string-array name="icon_name_replacer">
+        <!-- Word "app_" will be replaced with "" -->
+        <item>fivehundredpx,500px</item>
+        <item>eightbitphotolab,8Bit_Photo_Lab</item>
+        <item>qq,QQ</item>
+        <item>onetwothreeosix,12306</item>
+        <item>xiaoka_yixia_live,yizhibo</item>
+        <item>hexin_plat,tonghuashun</item>
+        <item>camera_threesixty,camera_360</item>
+        <item>ddcat,DDcat</item>
+        <item>asphalt_eight,asphalt_8</item>
+        <item>foobar_twentyhundred,foobar2000</item>
+        <item>express_onehundred,express_100</item>
+        <item>benghuai_three,benghuai_3</item>
+        <item>wuba_life,58 life</item>
+        <item>oneonefive,115</item>
+        <item>booking_dot_com,booking.com</item>
+        <item>monument_valley_two,monument_valley_2</item>
+        <item>carrot_three,carrot_3</item>
+        <item>one2123,12123</item>
+        <item>thirtysix_kr,36kr</item>
+        <item>threed_master,3d_master</item>
+        <item>nine_gag,9gag</item>
+
+        <!--
+        <item>mofafenxiang,魔法分享</item>
+        <item>eleme,饿了么</item>
+        <item>kaola,考拉海购</item>
+        <item>meituan,美团</item>
+        <item>tiantiankuaibao,天天快报</item>
+        <item>yingyongbao,应用宝</item>
+        <item>yipiaozhixing,智行火车管家</item>
+        <item>iqiyi,爱奇艺</item>
+        <item>aikanyuedu,爱看阅读</item>
+        <item>dazibao,大字报</item>
+        <item>douyu,斗鱼</item>
+        <item>didi,滴滴</item>
+               -->
+
+        <!-- Word "icon_" will be replaced with "app_" -->
+    </string-array>
+
+</resources>

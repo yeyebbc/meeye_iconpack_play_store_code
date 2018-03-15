@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="changelog_date">
+        UTC+8 2018年3月12日
+    </string>
+    <string-array name="changelog">
+        <item>增加了新图标。</item>
+        <item>更新了图标。</item>
+        <item>修复了丢失的图标适配。</item>
+        <item>调整了 UI.</item>
+        <item>修复了 bug.</item>
+    </string-array>
+
+</resources>

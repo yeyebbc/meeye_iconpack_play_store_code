@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Leave empty if you don't want to show changelog date -->
+    <!-- Changelog support html formatting
+* <b> for Bold
+* <i> for Italic
+* <u> for Underline -->
+
+
+    <string name="changelog_date">
+        UTC+8 March 12, 2018
+    </string>
+
+    <string-array name="changelog">
+        <item>Added new icons.</item>
+        <item>Updated icons.</item>
+        <item>Fixed missing icons.</item>
+        <item>Changed UI.</item>
+        <item>Fixed bugs.</item>
+    </string-array>
+
+</resources>

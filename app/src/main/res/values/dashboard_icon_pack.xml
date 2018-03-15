@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <!-- YOUR ICON PACK NAME -->
+    <string name="app_name">Meeye Iconpack</string>
+
+    <string name="theme_title">Meeye Iconpack</string>
+    <string name="theme_name">Meeye Iconpack</string>
+
+    <string name="theme_author">YeyeBBC</string>
+    <string name="developer_name">YeyeBBC</string>
+    <string name="developerName">YeyeBBC</string>
+    <string name="authorName">YeyeBBC</string>
+
+    <string name="authorLink">https://twitter.com/antoniacrespoa2</string>
+    <string name="developer_link">https://twitter.com/antoniacrespoa2</string>
+
+    <string name="theme_description">An iconpack inspired by Meego Harmattan.</string>
+    <string name="theme_info">An iconpack inspired by Meego Harmattan.</string>
+    <string name="theme_ad_msg">An iconpack inspired by Meego Harmattan.</string>
+
+    <string name="theme_feature">feature</string>
+
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+
+    <string name="iconpack">com.yeyebbc.iconpack.meeye</string>
+
+</resources>

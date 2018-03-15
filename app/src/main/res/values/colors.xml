@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#1e88e5</color>
+    <color name="colorAccent">#03a9f4</color>
+
+    <color name="darkColorPrimary">#124191</color>
+    <color name="darkColorPrimaryDark">#103b7a</color>
+    <color name="darkColorAccent">#03a9f4</color>
+    
+    <!-- Navigation Bar
+    * Must be solid color, no alpha -->
+    <color name="navigationBar">#2196f3</color>
+    <color name="navigationBarDark">#124191</color>
+
+    <!-- Splash Screen -->
+    <color name="splashColor">#FFFFFF</color>
+
+    <!-- Navigation View -->
+    <color name="navigationViewTitle">#FFFFFF</color>
+    <color name="navigationViewTitleBack">#33000000</color>
+
+    <color name="navigationViewText">#505A64</color>
+    <color name="navigationViewTextDark">#DDFFFFFF</color>
+    <color name="navigationViewTextSelected">#03a9f4</color>
+    <color name="navigationViewTextSelectedDark">#03a9f4</color>
+    <color name="navigationViewSelectedBackground">#00000000</color>
+    <color name="navigationViewSelectedBackgroundDark">#00000000</color>
+
+    <!-- Swipe Refresh -->
+    <color name="swipeRefresh">#23BEA5</color>
+
+    <!-- Toolbar -->
+    <color name="toolbarIcon">#FFFFFFFF</color>
+    <color name="toolbarIconDark">#FFFFFFFF</color>
+
+    <!-- Tab -->
+    <color name="tabIndicator">#FFFFFFFF</color>
+    <color name="tabIndicatorDark">#FFFFFFFF</color>
+    <color name="tabText">#44FFFFFF</color>
+    <color name="tabTextDark">#44FFFFFF</color>
+    <color name="tabTextSelected">#FFFFFFFF</color>
+    <color name="tabTextSelectedDark">#FFFFFFFF</color>
+
+    <!-- Card -->
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="cardBackgroundDark">#272727</color>
+
+    <!-- Ripple -->
+    <color name="rippleColor">#55000000</color>
+    <color name="rippleColorDark">#55FFFFFF</color>
+    <color name="rippleAccent">#3323BEA5</color>
+    <color name="rippleAccentDark">#3323BEA5</color>
+
+    <!-- Attributes -->
+    <color name="mainBackground">#FAFAFA</color>
+    <color name="mainBackgroundDark">#181818</color>
+    <color name="primaryText">#484848</color>
+    <color name="primaryTextDark">#EEFFFFFF</color>
+    <color name="secondaryText">#777777</color>
+    <color name="secondaryTextDark">#99FFFFFF</color>
+    <color name="dividerList">#EEEEEE</color>
+    <color name="dividerListDark">#22FFFFFF</color>
+
+    <color name="ic_launcher_background">#0087e3</color>
+
+</resources>
